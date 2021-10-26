@@ -1,7 +1,7 @@
 <div align="center"><h2>👋Hi there!</h2></div>   
-<div align="center">I am majoring in artificial intelligence convergence at Wonkwang University.</div>  
-<div align="center">I've used C, C++, and C# languages.</div>  
-<div align="center">I'm learning Python language and artificial intelligence tools.</div>  
+<div align="center">😎 I am majoring in artificial intelligence convergence at Wonkwang University.</div>  
+<div align="center">I've used C<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" />  , C++, and C# languages.</div>  
+<div align="center">I am learning Python language and artificial intelligence tools.</div>  
 <div align="center">As an example, I will learn TensorFlow and Keras tools.</div>  
 <div align="center">And my current goal is to challenge the Kaggle competition.</div>
 <br/>  
