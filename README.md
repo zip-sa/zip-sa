@@ -1,9 +1,11 @@
 <div align="center"><h2>👋Hi there!</h2></div>   
-<div align="center">👨 💻 I am a junior developer who studies development and planning.</div>  
-<div align="center">🏫 I’m currently attending WKU</div>  
-<div align="center">✏️I’m currently learning Android and Java</div>  
-<div align="center">😀I'm not good enough, but I look forward to your kind cooperation.</div>  
+<div align="center">I am majoring in artificial intelligence convergence at Wonkwang University.</div>  
+<div align="center">I've used C, C++, and C# languages.</div>  
+<div align="center">I'm learning Python language and artificial intelligence tools.</div>  
+<div align="center">As an example, I will learn TensorFlow and Keras tools.</div>  
+<div align="center">And my current goal is to challenge the Kaggle competition.</div>
 <br/>  
+    
 
 <table alien = "center ><tr><td valign="top" width="33%">
 <div align = "center"> <h2>🛠️Tech Stack🛠️</h2>
