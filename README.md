@@ -1,6 +1,6 @@
 <div align="center"><h2>👋Hi there!</h2></div>   
 <div align="center">😎 I am majoring in artificial intelligence convergence at Wonkwang University.</div>  
-<div align="center">I've used C<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" />  , C++, and C# languages.</div>  
+<div align="center">I've used C, C++, and C# languages.</div>  
 <div align="center">I am learning Python language and artificial intelligence tools.</div>  
 <div align="center">As an example, I will learn TensorFlow and Keras tools.</div>  
 <div align="center">And my current goal is to challenge the Kaggle competition.</div>
@@ -41,7 +41,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
 </div>  
-![trophy](https://github-profile-trophy.vercel.app/?username=zip-sa)
+"""![trophy](https://github-profile-trophy.vercel.app/?username=zip-sa)"""
 <br/>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zip-sa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>
